@@ -1,6 +1,6 @@
 # practicing-ruby
 
-Crie uma classe "Pessoa" que tenha como atributos nome e idade. Crie também um método "apresentar" que imprima na tela o nome e a idade da pessoa.
+Crie uma classe "Pessoa" que tenha como atributos nome e idade. Crie também um método "apresentar" que imprima na tela o nome e a idade da pessoa. - Feito
 
 Crie uma classe "ContaBancaria" que tenha como atributos saldo e número da conta. Crie também um método "depositar" que adiciona um valor ao saldo e um método "sacar" que subtrai um valor do saldo.
 
