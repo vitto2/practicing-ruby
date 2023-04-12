@@ -2,7 +2,7 @@
 
 Crie uma classe "Pessoa" que tenha como atributos nome e idade. Crie também um método "apresentar" que imprima na tela o nome e a idade da pessoa. - Feito
 
-Crie uma classe "ContaBancaria" que tenha como atributos saldo e número da conta. Crie também um método "depositar" que adiciona um valor ao saldo e um método "sacar" que subtrai um valor do saldo.
+Crie uma classe "ContaBancaria" que tenha como atributos saldo e número da conta. Crie também um método "depositar" que adiciona um valor ao saldo e um método "sacar" que subtrai um valor do saldo. - Feito
 
 Crie uma classe "Carro" que tenha como atributos modelo, cor e ano de fabricação. Crie também um método "ligar" que imprime na tela "O carro está ligado" e um método "desligar" que imprime na tela "O carro está desligado".
 
