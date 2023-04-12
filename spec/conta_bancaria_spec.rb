@@ -1,3 +1,4 @@
+require "./conta_bancaria"
 
 describe "Banco" do 
     let(:conta01) {ContaBancaria.new(2500,001)}

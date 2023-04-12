@@ -1,9 +1,10 @@
+require "./carro.rb"
 describe Carro do 
 
-    let(:ferrari) {Ferrari.new("Ferrari F8","Vermelha", 2022)}
+    let(:ferrari) {Carro.new("Ferrari F8","Vermelha", 2022)}
 
     it "deve criar carro" do 
-        expect(ferrari.nome).to eq("Ferrari F8")
+        expect(ferrari.modelo).to eq("Ferrari F8")
         expect(ferrari.cor).to eq("Vermelha")
         expect(ferrari.ano).to eq(2022)
     end 
