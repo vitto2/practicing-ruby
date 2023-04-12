@@ -1,4 +1,5 @@
 require "./pessoa.rb"
+require "./conta_bancaria"
 
 describe Pessoa do 
     
@@ -13,3 +14,4 @@ describe Pessoa do
         expect(pessoa.apresentar(pessoa)).to  eq("O nome da pessoa é #{pessoa.nome} e a idade é #{pessoa.idade}")
     end
 end  
+
