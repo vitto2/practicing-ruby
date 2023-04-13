@@ -1,5 +1,5 @@
-class Carro 
-
+class Carro
+    
     attr_accessor :modelo, :cor, :ano
 
     def initialize(modelo,cor,ano)
@@ -15,4 +15,5 @@ class Carro
     def desligar 
         "O carro está desligado"
     end 
+
 end 

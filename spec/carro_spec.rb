@@ -1,4 +1,5 @@
 require "./carro.rb"
+
 describe Carro do 
 
     let(:ferrari) {Carro.new("Ferrari F8","Vermelha", 2022)}
@@ -16,4 +17,5 @@ describe Carro do
     it "deve desligar o carro" do 
         expect(ferrari.desligar).to eq("O carro está desligado")
     end
+    
 end 
